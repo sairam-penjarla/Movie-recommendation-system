@@ -1,0 +1,5 @@
+2024-07-08 23:44:10,981 - INFO - Loading data from file: ./netflix_titles.csv
+2024-07-08 23:44:11,074 - INFO - Preprocessing data
+2024-07-08 23:44:11,109 - INFO - Applying data transformations
+2024-07-08 23:44:11,230 - INFO - Training model
+2024-07-08 23:44:11,805 - INFO - Getting recommendations for title: PK

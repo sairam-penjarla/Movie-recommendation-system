@@ -1,0 +1,15 @@
+data:
+  filepath: "./netflix_titles.csv"
+  columns:
+    genre: "category"
+    director: "director_name"
+    cast: "cast_members"
+    description: "summary"
+    title: "movie_title"
+    date_added: "date_added"
+    country: "country_of_origin"
+    rating: "rating"
+  date_added: "date_added"
+
+logging:
+  log_file: "app.log"
